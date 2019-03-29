@@ -1,10 +1,10 @@
-# ZKEditor
-A JavaFX editor for zookeeper
+# SSHFS
+A Java filesystem backed by SSH
 
 ## Download
 ```xml
 <dependency>
-  <groupId>com.sirolf2009</groupId>
+	<groupId>com.sirolf2009</groupId>
 	<artifactId>sshfs</artifactId>
 	<version>0.0.1</version>
 </dependency>
